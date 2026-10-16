@@ -1,1 +1,722 @@
+id_produk,nama_produk,kategori,tahun,bulan,harga_satuan,diskon_persen,ada_promo,biaya_iklan,rating_produk,momen_hari_besar,stok_awal_bulan,jumlah_terjual,status_penjualan
+PRD001,Sirup Marjan,Makanan & Minuman,2023,1,28000,10,Tidak,3000000,4.5,Tidak ada,164,118,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2023,1,45000,0,Tidak,1400000,4.6,Tidak ada,122,99,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2023,1,65000,0,Tidak,3400000,4.6,Tidak ada,104,80,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2023,1,110000,15,Ya,2300000,4.5,Tidak ada,327,246,Laris
+PRD005,Es Krim Cup,Makanan & Minuman,2023,1,12000,20,Ya,3600000,3.8,Tidak ada,373,266,Biasa
+PRD006,Baju Koko,Fashion,2023,1,150000,10,Tidak,4400000,4.5,Tidak ada,106,92,Biasa
+PRD007,Mukena,Fashion,2023,1,180000,0,Tidak,600000,4.6,Tidak ada,102,64,Biasa
+PRD008,Jaket Hujan,Fashion,2023,1,120000,0,Tidak,1800000,4.7,Tidak ada,220,156,Laris
+PRD009,Kaos Polos,Fashion,2023,1,55000,0,Tidak,4200000,4.2,Tidak ada,204,156,Biasa
+PRD010,Seragam Sekolah,Fashion,2023,1,135000,0,Tidak,2500000,4.4,Tidak ada,85,59,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2023,1,175000,15,Ya,1200000,4.1,Tidak ada,102,72,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2023,1,35000,5,Tidak,3500000,3.9,Tidak ada,263,191,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2023,1,42000,5,Tidak,5700000,4.6,Tidak ada,184,141,Biasa
+PRD014,Kipas Angin,Elektronik,2023,1,280000,10,Tidak,3500000,4.2,Tidak ada,70,56,Biasa
+PRD015,Payung,Elektronik,2023,1,45000,20,Ya,3200000,4.1,Tidak ada,430,283,Laris
+PRD016,Power Bank,Elektronik,2023,1,150000,5,Tidak,1300000,4.4,Tidak ada,100,73,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2023,1,220000,5,Tidak,3800000,4.0,Tidak ada,89,69,Biasa
+PRD018,Parsel Hampers,Hadiah,2023,1,250000,0,Tidak,2900000,4.7,Tidak ada,46,37,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2023,1,95000,5,Tidak,3400000,4.3,Tidak ada,38,32,Biasa
+PRD020,Kado Valentine,Hadiah,2023,1,85000,15,Ya,0,4.0,Tidak ada,42,34,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2023,2,28000,10,Tidak,800000,3.9,Valentine,183,134,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2023,2,45000,0,Tidak,3400000,3.8,Valentine,95,85,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2023,2,65000,5,Tidak,3400000,4.1,Valentine,120,79,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2023,2,110000,0,Tidak,4400000,4.8,Valentine,216,142,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2023,2,12000,20,Ya,2500000,4.7,Valentine,377,308,Biasa
+PRD006,Baju Koko,Fashion,2023,2,150000,0,Tidak,2000000,4.3,Valentine,90,64,Biasa
+PRD007,Mukena,Fashion,2023,2,180000,20,Ya,2800000,4.1,Valentine,160,106,Laris
+PRD008,Jaket Hujan,Fashion,2023,2,120000,5,Ya,0,5.0,Valentine,178,128,Laris
+PRD009,Kaos Polos,Fashion,2023,2,55000,5,Tidak,500000,4.1,Valentine,212,161,Biasa
+PRD010,Seragam Sekolah,Fashion,2023,2,135000,0,Tidak,3700000,3.8,Valentine,69,54,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2023,2,175000,0,Tidak,3800000,4.5,Valentine,101,67,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2023,2,35000,0,Tidak,1600000,3.9,Valentine,162,126,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2023,2,42000,15,Ya,3100000,4.1,Valentine,181,126,Biasa
+PRD014,Kipas Angin,Elektronik,2023,2,280000,0,Tidak,4300000,3.9,Valentine,79,58,Biasa
+PRD015,Payung,Elektronik,2023,2,45000,10,Tidak,2400000,4.0,Valentine,157,133,Biasa
+PRD016,Power Bank,Elektronik,2023,2,150000,15,Ya,4900000,4.6,Valentine,162,115,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2023,2,220000,0,Ya,2600000,4.4,Valentine,85,58,Biasa
+PRD018,Parsel Hampers,Hadiah,2023,2,250000,5,Tidak,3600000,4.3,Valentine,59,47,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2023,2,95000,10,Tidak,1400000,3.8,Valentine,42,35,Biasa
+PRD020,Kado Valentine,Hadiah,2023,2,85000,0,Tidak,3700000,4.4,Valentine,189,119,Laris
+PRD001,Sirup Marjan,Makanan & Minuman,2023,3,28000,0,Tidak,4600000,4.7,Tidak ada,200,153,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2023,3,45000,5,Tidak,800000,4.2,Tidak ada,115,97,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2023,3,65000,30,Ya,3100000,4.0,Tidak ada,165,112,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2023,3,110000,0,Tidak,0,4.5,Tidak ada,212,169,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2023,3,12000,20,Ya,1800000,4.7,Tidak ada,393,273,Biasa
+PRD006,Baju Koko,Fashion,2023,3,150000,0,Tidak,2500000,4.7,Tidak ada,104,82,Biasa
+PRD007,Mukena,Fashion,2023,3,180000,5,Tidak,1600000,4.1,Tidak ada,100,67,Biasa
+PRD008,Jaket Hujan,Fashion,2023,3,120000,30,Ya,1500000,4.6,Tidak ada,106,90,Biasa
+PRD009,Kaos Polos,Fashion,2023,3,55000,20,Ya,2400000,4.5,Tidak ada,216,166,Biasa
+PRD010,Seragam Sekolah,Fashion,2023,3,135000,20,Ya,2400000,4.4,Tidak ada,118,100,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2023,3,175000,30,Ya,4300000,4.7,Tidak ada,132,112,Laris
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2023,3,35000,10,Tidak,3000000,3.4,Tidak ada,208,135,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2023,3,42000,0,Tidak,3600000,4.5,Tidak ada,157,116,Biasa
+PRD014,Kipas Angin,Elektronik,2023,3,280000,0,Tidak,7500000,4.3,Tidak ada,90,68,Biasa
+PRD015,Payung,Elektronik,2023,3,45000,10,Tidak,3700000,4.6,Tidak ada,121,105,Biasa
+PRD016,Power Bank,Elektronik,2023,3,150000,0,Tidak,3700000,4.0,Tidak ada,207,130,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2023,3,220000,0,Tidak,4300000,3.9,Tidak ada,79,66,Biasa
+PRD018,Parsel Hampers,Hadiah,2023,3,250000,5,Tidak,4600000,4.1,Tidak ada,57,36,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2023,3,95000,5,Tidak,3500000,4.5,Tidak ada,34,24,Biasa
+PRD020,Kado Valentine,Hadiah,2023,3,85000,15,Ya,3400000,4.4,Tidak ada,41,32,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2023,4,28000,30,Ya,200000,4.0,Lebaran,714,568,Laris
+PRD002,Kurma Premium 500g,Makanan & Minuman,2023,4,45000,0,Tidak,200000,4.1,Lebaran,288,211,Laris
+PRD003,Biskuit Kaleng,Makanan & Minuman,2023,4,65000,10,Tidak,3100000,4.1,Lebaran,470,297,Laris
+PRD004,Mi Instan Dus,Makanan & Minuman,2023,4,110000,5,Tidak,1300000,3.9,Lebaran,165,120,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2023,4,12000,30,Ya,2800000,4.4,Lebaran,556,441,Laris
+PRD006,Baju Koko,Fashion,2023,4,150000,15,Ya,0,3.8,Lebaran,284,212,Laris
+PRD007,Mukena,Fashion,2023,4,180000,5,Tidak,4900000,4.4,Lebaran,290,262,Laris
+PRD008,Jaket Hujan,Fashion,2023,4,120000,0,Tidak,4000000,4.6,Lebaran,94,64,Biasa
+PRD009,Kaos Polos,Fashion,2023,4,55000,15,Ya,4500000,4.5,Lebaran,343,246,Laris
+PRD010,Seragam Sekolah,Fashion,2023,4,135000,15,Ya,3700000,3.7,Lebaran,95,79,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2023,4,175000,0,Tidak,2600000,4.5,Lebaran,89,62,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2023,4,35000,15,Ya,2800000,4.5,Lebaran,236,185,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2023,4,42000,0,Tidak,1200000,4.1,Lebaran,127,105,Biasa
+PRD014,Kipas Angin,Elektronik,2023,4,280000,0,Tidak,3100000,3.7,Lebaran,111,77,Biasa
+PRD015,Payung,Elektronik,2023,4,45000,15,Ya,3200000,4.2,Lebaran,144,114,Biasa
+PRD016,Power Bank,Elektronik,2023,4,150000,10,Tidak,2100000,4.1,Lebaran,112,84,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2023,4,220000,5,Tidak,200000,4.7,Lebaran,104,76,Biasa
+PRD018,Parsel Hampers,Hadiah,2023,4,250000,15,Ya,1400000,4.1,Lebaran,194,158,Laris
+PRD019,Pohon Natal Mini,Hadiah,2023,4,95000,0,Tidak,2700000,4.7,Lebaran,36,22,Biasa
+PRD020,Kado Valentine,Hadiah,2023,4,85000,0,Ya,2600000,4.5,Lebaran,52,33,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2023,5,28000,20,Ya,1700000,4.8,Tidak ada,287,200,Laris
+PRD002,Kurma Premium 500g,Makanan & Minuman,2023,5,45000,30,Ya,5100000,4.2,Tidak ada,242,169,Laris
+PRD003,Biskuit Kaleng,Makanan & Minuman,2023,5,65000,0,Tidak,3600000,4.4,Tidak ada,115,74,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2023,5,110000,5,Tidak,1900000,4.2,Tidak ada,218,141,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2023,5,12000,0,Tidak,2400000,4.7,Tidak ada,467,300,Biasa
+PRD006,Baju Koko,Fashion,2023,5,150000,10,Tidak,5700000,4.1,Tidak ada,139,99,Biasa
+PRD007,Mukena,Fashion,2023,5,180000,0,Tidak,5100000,4.2,Tidak ada,98,70,Biasa
+PRD008,Jaket Hujan,Fashion,2023,5,120000,5,Tidak,4800000,4.5,Tidak ada,112,96,Biasa
+PRD009,Kaos Polos,Fashion,2023,5,55000,20,Ya,5200000,4.0,Tidak ada,297,212,Biasa
+PRD010,Seragam Sekolah,Fashion,2023,5,135000,15,Ya,4600000,4.5,Tidak ada,122,82,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2023,5,175000,10,Tidak,4700000,4.9,Tidak ada,122,93,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2023,5,35000,20,Ya,200000,3.9,Tidak ada,271,178,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2023,5,42000,10,Tidak,2700000,4.5,Tidak ada,181,121,Biasa
+PRD014,Kipas Angin,Elektronik,2023,5,280000,20,Ya,2600000,4.1,Tidak ada,151,118,Laris
+PRD015,Payung,Elektronik,2023,5,45000,15,Ya,3400000,4.5,Tidak ada,126,91,Biasa
+PRD016,Power Bank,Elektronik,2023,5,150000,0,Tidak,300000,4.2,Tidak ada,69,57,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2023,5,220000,0,Tidak,4700000,3.9,Tidak ada,74,56,Biasa
+PRD018,Parsel Hampers,Hadiah,2023,5,250000,15,Ya,1800000,4.3,Tidak ada,70,44,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2023,5,95000,10,Tidak,900000,4.3,Tidak ada,27,19,Biasa
+PRD020,Kado Valentine,Hadiah,2023,5,85000,20,Ya,2500000,4.5,Tidak ada,74,51,Laris
+PRD001,Sirup Marjan,Makanan & Minuman,2023,6,28000,0,Tidak,3100000,4.2,Tidak ada,195,138,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2023,6,45000,20,Ya,5200000,4.4,Tidak ada,271,195,Laris
+PRD003,Biskuit Kaleng,Makanan & Minuman,2023,6,65000,15,Ya,3000000,4.6,Tidak ada,151,113,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2023,6,110000,5,Tidak,2100000,4.3,Tidak ada,216,152,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2023,6,12000,0,Tidak,900000,4.6,Tidak ada,377,310,Biasa
+PRD006,Baju Koko,Fashion,2023,6,150000,10,Tidak,2700000,3.9,Tidak ada,93,75,Biasa
+PRD007,Mukena,Fashion,2023,6,180000,30,Ya,1900000,3.7,Tidak ada,110,94,Biasa
+PRD008,Jaket Hujan,Fashion,2023,6,120000,30,Ya,2600000,3.8,Tidak ada,95,84,Biasa
+PRD009,Kaos Polos,Fashion,2023,6,55000,5,Tidak,3600000,4.6,Tidak ada,302,214,Biasa
+PRD010,Seragam Sekolah,Fashion,2023,6,135000,10,Tidak,3900000,4.2,Tidak ada,279,211,Laris
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2023,6,175000,0,Tidak,5100000,4.1,Tidak ada,163,118,Laris
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2023,6,35000,15,Ya,1800000,4.3,Tidak ada,489,335,Laris
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2023,6,42000,0,Tidak,4500000,4.9,Tidak ada,260,201,Laris
+PRD014,Kipas Angin,Elektronik,2023,6,280000,5,Tidak,2900000,4.0,Tidak ada,84,62,Biasa
+PRD015,Payung,Elektronik,2023,6,45000,20,Ya,2900000,4.0,Tidak ada,144,110,Biasa
+PRD016,Power Bank,Elektronik,2023,6,150000,15,Ya,4800000,4.5,Tidak ada,181,121,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2023,6,220000,10,Tidak,3000000,4.2,Tidak ada,105,79,Biasa
+PRD018,Parsel Hampers,Hadiah,2023,6,250000,5,Tidak,800000,4.4,Tidak ada,53,34,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2023,6,95000,10,Tidak,3600000,4.4,Tidak ada,39,26,Biasa
+PRD020,Kado Valentine,Hadiah,2023,6,85000,20,Ya,4200000,4.2,Tidak ada,76,49,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2023,7,28000,0,Tidak,5300000,4.7,Tahun Ajaran Baru,215,173,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2023,7,45000,0,Tidak,5000000,3.9,Tahun Ajaran Baru,127,87,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2023,7,65000,15,Ya,1600000,4.1,Tahun Ajaran Baru,152,119,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2023,7,110000,10,Tidak,4500000,4.0,Tahun Ajaran Baru,287,180,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2023,7,12000,15,Ya,3500000,3.7,Tahun Ajaran Baru,581,397,Laris
+PRD006,Baju Koko,Fashion,2023,7,150000,0,Tidak,200000,3.8,Tahun Ajaran Baru,101,64,Biasa
+PRD007,Mukena,Fashion,2023,7,180000,5,Tidak,5300000,4.1,Tahun Ajaran Baru,102,79,Biasa
+PRD008,Jaket Hujan,Fashion,2023,7,120000,10,Tidak,1600000,4.6,Tahun Ajaran Baru,102,75,Biasa
+PRD009,Kaos Polos,Fashion,2023,7,55000,15,Ya,2200000,4.3,Tahun Ajaran Baru,247,199,Biasa
+PRD010,Seragam Sekolah,Fashion,2023,7,135000,10,Tidak,2800000,4.3,Tahun Ajaran Baru,311,248,Laris
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2023,7,175000,5,Ya,0,4.5,Tahun Ajaran Baru,261,210,Laris
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2023,7,35000,0,Tidak,2200000,4.7,Tahun Ajaran Baru,805,523,Laris
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2023,7,42000,5,Ya,2900000,4.6,Tahun Ajaran Baru,449,369,Laris
+PRD014,Kipas Angin,Elektronik,2023,7,280000,15,Ya,2100000,4.2,Tahun Ajaran Baru,119,78,Biasa
+PRD015,Payung,Elektronik,2023,7,45000,30,Ya,2000000,4.3,Tahun Ajaran Baru,185,127,Biasa
+PRD016,Power Bank,Elektronik,2023,7,150000,15,Ya,3200000,4.7,Tahun Ajaran Baru,105,81,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2023,7,220000,0,Tidak,4700000,4.0,Tahun Ajaran Baru,114,72,Biasa
+PRD018,Parsel Hampers,Hadiah,2023,7,250000,0,Tidak,3700000,4.9,Tahun Ajaran Baru,60,43,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2023,7,95000,20,Ya,3400000,4.4,Tahun Ajaran Baru,46,40,Biasa
+PRD020,Kado Valentine,Hadiah,2023,7,85000,10,Ya,2500000,4.3,Tahun Ajaran Baru,49,43,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2023,8,28000,0,Tidak,1900000,4.5,Tidak ada,187,122,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2023,8,45000,10,Tidak,1100000,3.8,Tidak ada,123,109,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2023,8,65000,0,Tidak,400000,4.4,Tidak ada,111,69,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2023,8,110000,0,Tidak,200000,4.1,Tidak ada,190,122,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2023,8,12000,0,Tidak,3000000,3.9,Tidak ada,433,315,Biasa
+PRD006,Baju Koko,Fashion,2023,8,150000,15,Ya,2500000,4.3,Tidak ada,126,104,Biasa
+PRD007,Mukena,Fashion,2023,8,180000,5,Tidak,3900000,3.9,Tidak ada,89,76,Biasa
+PRD008,Jaket Hujan,Fashion,2023,8,120000,0,Tidak,2600000,4.1,Tidak ada,77,68,Biasa
+PRD009,Kaos Polos,Fashion,2023,8,55000,15,Ya,4500000,4.5,Tidak ada,209,187,Biasa
+PRD010,Seragam Sekolah,Fashion,2023,8,135000,20,Ya,4300000,3.9,Tidak ada,263,167,Laris
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2023,8,175000,10,Tidak,3100000,4.2,Tidak ada,155,118,Laris
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2023,8,35000,30,Ya,2800000,4.3,Tidak ada,425,346,Laris
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2023,8,42000,15,Ya,4500000,4.7,Tidak ada,415,345,Laris
+PRD014,Kipas Angin,Elektronik,2023,8,280000,0,Tidak,2500000,3.4,Tidak ada,49,43,Biasa
+PRD015,Payung,Elektronik,2023,8,45000,10,Tidak,3500000,4.4,Tidak ada,127,97,Biasa
+PRD016,Power Bank,Elektronik,2023,8,150000,10,Tidak,800000,4.4,Tidak ada,77,63,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2023,8,220000,15,Ya,2500000,4.4,Tidak ada,111,80,Biasa
+PRD018,Parsel Hampers,Hadiah,2023,8,250000,0,Tidak,3400000,4.3,Tidak ada,54,37,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2023,8,95000,20,Ya,3300000,4.2,Tidak ada,54,45,Laris
+PRD020,Kado Valentine,Hadiah,2023,8,85000,30,Ya,3200000,4.4,Tidak ada,72,55,Laris
+PRD001,Sirup Marjan,Makanan & Minuman,2023,9,28000,10,Tidak,3500000,4.1,Tidak ada,191,128,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2023,9,45000,0,Tidak,4000000,4.1,Tidak ada,147,93,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2023,9,65000,5,Tidak,5400000,4.5,Tidak ada,127,107,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2023,9,110000,0,Tidak,1700000,4.1,Tidak ada,199,162,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2023,9,12000,5,Tidak,2200000,4.8,Tidak ada,425,330,Biasa
+PRD006,Baju Koko,Fashion,2023,9,150000,10,Tidak,2800000,4.3,Tidak ada,129,98,Biasa
+PRD007,Mukena,Fashion,2023,9,180000,0,Tidak,6000000,4.4,Tidak ada,78,58,Biasa
+PRD008,Jaket Hujan,Fashion,2023,9,120000,0,Tidak,3200000,4.1,Tidak ada,108,77,Biasa
+PRD009,Kaos Polos,Fashion,2023,9,55000,5,Tidak,1600000,3.9,Tidak ada,196,128,Biasa
+PRD010,Seragam Sekolah,Fashion,2023,9,135000,0,Tidak,0,3.8,Tidak ada,94,60,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2023,9,175000,5,Tidak,3800000,4.3,Tidak ada,103,71,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2023,9,35000,10,Tidak,2100000,4.5,Tidak ada,202,126,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2023,9,42000,0,Tidak,3200000,4.5,Tidak ada,147,98,Biasa
+PRD014,Kipas Angin,Elektronik,2023,9,280000,20,Ya,600000,4.2,Tidak ada,187,121,Laris
+PRD015,Payung,Elektronik,2023,9,45000,10,Ya,2500000,4.8,Tidak ada,115,102,Biasa
+PRD016,Power Bank,Elektronik,2023,9,150000,0,Ya,3700000,4.7,Tidak ada,155,105,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2023,9,220000,10,Tidak,3100000,3.9,Tidak ada,71,57,Biasa
+PRD018,Parsel Hampers,Hadiah,2023,9,250000,0,Tidak,4500000,3.9,Tidak ada,62,39,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2023,9,95000,0,Tidak,4400000,4.2,Tidak ada,34,23,Biasa
+PRD020,Kado Valentine,Hadiah,2023,9,85000,15,Ya,5000000,4.5,Tidak ada,47,41,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2023,10,28000,5,Tidak,4200000,4.2,Tidak ada,151,111,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2023,10,45000,0,Ya,1600000,3.7,Tidak ada,118,101,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2023,10,65000,15,Ya,4000000,4.5,Tidak ada,135,103,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2023,10,110000,0,Tidak,2600000,3.9,Tidak ada,173,146,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2023,10,12000,20,Ya,6100000,4.8,Tidak ada,347,285,Biasa
+PRD006,Baju Koko,Fashion,2023,10,150000,0,Tidak,2000000,4.1,Tidak ada,107,72,Biasa
+PRD007,Mukena,Fashion,2023,10,180000,0,Tidak,1900000,4.2,Tidak ada,81,58,Biasa
+PRD008,Jaket Hujan,Fashion,2023,10,120000,10,Tidak,3600000,4.1,Tidak ada,113,79,Biasa
+PRD009,Kaos Polos,Fashion,2023,10,55000,0,Tidak,2500000,4.4,Tidak ada,168,130,Biasa
+PRD010,Seragam Sekolah,Fashion,2023,10,135000,5,Tidak,4600000,4.9,Tidak ada,116,94,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2023,10,175000,10,Ya,3300000,4.4,Tidak ada,118,82,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2023,10,35000,30,Ya,1800000,3.8,Tidak ada,272,194,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2023,10,42000,0,Tidak,5200000,4.1,Tidak ada,125,111,Biasa
+PRD014,Kipas Angin,Elektronik,2023,10,280000,10,Tidak,2700000,4.2,Tidak ada,152,132,Laris
+PRD015,Payung,Elektronik,2023,10,45000,10,Tidak,1600000,3.9,Tidak ada,92,78,Biasa
+PRD016,Power Bank,Elektronik,2023,10,150000,10,Tidak,2500000,4.6,Tidak ada,115,80,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2023,10,220000,5,Tidak,300000,4.0,Tidak ada,80,61,Biasa
+PRD018,Parsel Hampers,Hadiah,2023,10,250000,10,Tidak,3300000,4.1,Tidak ada,81,51,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2023,10,95000,0,Tidak,3400000,4.1,Tidak ada,40,29,Biasa
+PRD020,Kado Valentine,Hadiah,2023,10,85000,15,Ya,1500000,4.4,Tidak ada,47,35,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2023,11,28000,0,Tidak,3600000,4.0,Harbolnas 11.11,140,103,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2023,11,45000,10,Tidak,3500000,4.0,Harbolnas 11.11,130,113,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2023,11,65000,10,Tidak,0,4.7,Harbolnas 11.11,118,93,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2023,11,110000,5,Ya,2000000,3.9,Harbolnas 11.11,303,212,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2023,11,12000,5,Tidak,2500000,3.7,Harbolnas 11.11,283,191,Biasa
+PRD006,Baju Koko,Fashion,2023,11,150000,5,Tidak,4500000,4.1,Harbolnas 11.11,127,81,Biasa
+PRD007,Mukena,Fashion,2023,11,180000,20,Ya,4800000,4.4,Harbolnas 11.11,174,113,Laris
+PRD008,Jaket Hujan,Fashion,2023,11,120000,0,Tidak,4000000,4.9,Harbolnas 11.11,224,171,Laris
+PRD009,Kaos Polos,Fashion,2023,11,55000,10,Tidak,300000,4.4,Harbolnas 11.11,226,163,Biasa
+PRD010,Seragam Sekolah,Fashion,2023,11,135000,0,Tidak,2200000,4.4,Harbolnas 11.11,74,62,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2023,11,175000,0,Tidak,4000000,4.5,Harbolnas 11.11,77,64,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2023,11,35000,30,Ya,4600000,5.0,Harbolnas 11.11,423,288,Laris
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2023,11,42000,0,Tidak,3500000,4.3,Harbolnas 11.11,169,115,Biasa
+PRD014,Kipas Angin,Elektronik,2023,11,280000,0,Tidak,6000000,4.4,Harbolnas 11.11,62,53,Biasa
+PRD015,Payung,Elektronik,2023,11,45000,10,Tidak,1600000,4.0,Harbolnas 11.11,197,164,Laris
+PRD016,Power Bank,Elektronik,2023,11,150000,0,Tidak,7200000,4.5,Harbolnas 11.11,306,204,Laris
+PRD017,Headphone Bluetooth,Elektronik,2023,11,220000,0,Tidak,1100000,4.0,Harbolnas 11.11,175,132,Laris
+PRD018,Parsel Hampers,Hadiah,2023,11,250000,15,Ya,2400000,4.4,Harbolnas 11.11,84,60,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2023,11,95000,0,Tidak,5300000,4.5,Harbolnas 11.11,85,55,Laris
+PRD020,Kado Valentine,Hadiah,2023,11,85000,0,Tidak,2500000,4.5,Harbolnas 11.11,38,34,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2023,12,28000,0,Tidak,3200000,4.1,Natal & Tahun Baru,185,126,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2023,12,45000,20,Ya,1500000,4.3,Natal & Tahun Baru,154,128,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2023,12,65000,10,Tidak,3000000,3.7,Natal & Tahun Baru,179,151,Laris
+PRD004,Mi Instan Dus,Makanan & Minuman,2023,12,110000,0,Ya,1000000,4.4,Natal & Tahun Baru,274,173,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2023,12,12000,0,Ya,4400000,4.0,Natal & Tahun Baru,360,243,Biasa
+PRD006,Baju Koko,Fashion,2023,12,150000,20,Ya,1400000,4.2,Natal & Tahun Baru,100,83,Biasa
+PRD007,Mukena,Fashion,2023,12,180000,0,Tidak,3600000,4.5,Natal & Tahun Baru,89,75,Biasa
+PRD008,Jaket Hujan,Fashion,2023,12,120000,10,Tidak,3700000,3.8,Natal & Tahun Baru,240,206,Laris
+PRD009,Kaos Polos,Fashion,2023,12,55000,0,Tidak,4900000,4.2,Natal & Tahun Baru,278,209,Biasa
+PRD010,Seragam Sekolah,Fashion,2023,12,135000,20,Ya,1900000,4.3,Natal & Tahun Baru,135,88,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2023,12,175000,10,Tidak,500000,4.1,Natal & Tahun Baru,87,55,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2023,12,35000,0,Tidak,5200000,4.3,Natal & Tahun Baru,232,155,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2023,12,42000,10,Tidak,2200000,4.3,Natal & Tahun Baru,174,110,Biasa
+PRD014,Kipas Angin,Elektronik,2023,12,280000,0,Ya,2600000,4.3,Natal & Tahun Baru,86,69,Biasa
+PRD015,Payung,Elektronik,2023,12,45000,5,Tidak,1400000,4.3,Natal & Tahun Baru,347,218,Laris
+PRD016,Power Bank,Elektronik,2023,12,150000,0,Tidak,4900000,4.2,Natal & Tahun Baru,215,185,Laris
+PRD017,Headphone Bluetooth,Elektronik,2023,12,220000,10,Tidak,2100000,4.0,Natal & Tahun Baru,260,184,Laris
+PRD018,Parsel Hampers,Hadiah,2023,12,250000,0,Tidak,6500000,3.6,Natal & Tahun Baru,121,101,Laris
+PRD019,Pohon Natal Mini,Hadiah,2023,12,95000,0,Ya,2700000,3.8,Natal & Tahun Baru,254,165,Laris
+PRD020,Kado Valentine,Hadiah,2023,12,85000,15,Ya,3100000,4.1,Natal & Tahun Baru,72,48,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2024,1,28000,0,Tidak,5900000,3.9,Tidak ada,214,156,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2024,1,45000,10,Tidak,1200000,4.1,Tidak ada,143,99,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2024,1,65000,30,Ya,1900000,4.1,Tidak ada,174,137,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2024,1,110000,0,Tidak,3000000,4.1,Tidak ada,268,218,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2024,1,12000,5,Tidak,3900000,4.3,Tidak ada,282,184,Biasa
+PRD006,Baju Koko,Fashion,2024,1,150000,20,Ya,2200000,4.7,Tidak ada,146,111,Biasa
+PRD007,Mukena,Fashion,2024,1,180000,0,Tidak,2600000,3.9,Tidak ada,75,66,Biasa
+PRD008,Jaket Hujan,Fashion,2024,1,120000,0,Tidak,4700000,4.7,Tidak ada,227,153,Laris
+PRD009,Kaos Polos,Fashion,2024,1,55000,5,Tidak,800000,4.4,Tidak ada,228,144,Biasa
+PRD010,Seragam Sekolah,Fashion,2024,1,135000,10,Tidak,1700000,4.4,Tidak ada,76,58,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2024,1,175000,15,Ya,4800000,4.4,Tidak ada,113,95,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2024,1,35000,5,Ya,2600000,4.7,Tidak ada,333,232,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2024,1,42000,0,Tidak,3700000,4.3,Tidak ada,197,145,Biasa
+PRD014,Kipas Angin,Elektronik,2024,1,280000,0,Tidak,3600000,4.2,Tidak ada,75,50,Biasa
+PRD015,Payung,Elektronik,2024,1,45000,15,Ya,3800000,4.0,Tidak ada,357,227,Laris
+PRD016,Power Bank,Elektronik,2024,1,150000,15,Ya,1300000,4.2,Tidak ada,196,133,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2024,1,220000,5,Tidak,2300000,4.6,Tidak ada,88,71,Biasa
+PRD018,Parsel Hampers,Hadiah,2024,1,250000,10,Tidak,4500000,3.9,Tidak ada,74,46,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2024,1,95000,5,Tidak,2300000,4.7,Tidak ada,50,34,Biasa
+PRD020,Kado Valentine,Hadiah,2024,1,85000,15,Ya,3400000,4.4,Tidak ada,87,54,Laris
+PRD001,Sirup Marjan,Makanan & Minuman,2024,2,28000,10,Tidak,3200000,4.4,Valentine,154,138,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2024,2,45000,10,Tidak,3500000,4.5,Valentine,172,118,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2024,2,65000,5,Tidak,5500000,4.3,Valentine,134,116,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2024,2,110000,5,Tidak,4200000,4.3,Valentine,276,210,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2024,2,12000,5,Tidak,1000000,4.2,Valentine,287,200,Biasa
+PRD006,Baju Koko,Fashion,2024,2,150000,10,Tidak,1900000,4.5,Valentine,120,83,Biasa
+PRD007,Mukena,Fashion,2024,2,180000,20,Ya,4500000,4.0,Valentine,116,102,Laris
+PRD008,Jaket Hujan,Fashion,2024,2,120000,10,Tidak,1900000,4.5,Valentine,175,145,Laris
+PRD009,Kaos Polos,Fashion,2024,2,55000,15,Ya,2500000,4.6,Valentine,255,210,Biasa
+PRD010,Seragam Sekolah,Fashion,2024,2,135000,30,Ya,1800000,4.3,Valentine,113,79,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2024,2,175000,10,Tidak,2300000,4.8,Valentine,89,78,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2024,2,35000,15,Ya,3600000,4.3,Valentine,282,232,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2024,2,42000,5,Tidak,600000,4.5,Valentine,188,125,Biasa
+PRD014,Kipas Angin,Elektronik,2024,2,280000,30,Ya,4000000,4.4,Valentine,136,92,Laris
+PRD015,Payung,Elektronik,2024,2,45000,15,Ya,3000000,4.5,Valentine,347,219,Laris
+PRD016,Power Bank,Elektronik,2024,2,150000,0,Tidak,100000,3.2,Valentine,78,67,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2024,2,220000,10,Tidak,3800000,4.8,Valentine,110,91,Biasa
+PRD018,Parsel Hampers,Hadiah,2024,2,250000,20,Ya,3000000,4.1,Valentine,81,51,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2024,2,95000,20,Ya,2500000,4.8,Valentine,61,41,Biasa
+PRD020,Kado Valentine,Hadiah,2024,2,85000,5,Tidak,4300000,4.6,Valentine,202,138,Laris
+PRD001,Sirup Marjan,Makanan & Minuman,2024,3,28000,20,Ya,2100000,4.4,Lebaran,753,588,Laris
+PRD002,Kurma Premium 500g,Makanan & Minuman,2024,3,45000,5,Tidak,3900000,4.6,Lebaran,519,370,Laris
+PRD003,Biskuit Kaleng,Makanan & Minuman,2024,3,65000,0,Tidak,1400000,4.7,Lebaran,386,260,Laris
+PRD004,Mi Instan Dus,Makanan & Minuman,2024,3,110000,15,Ya,1500000,4.5,Lebaran,207,170,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2024,3,12000,0,Tidak,6200000,4.4,Lebaran,259,228,Biasa
+PRD006,Baju Koko,Fashion,2024,3,150000,15,Ya,2200000,4.4,Lebaran,387,309,Laris
+PRD007,Mukena,Fashion,2024,3,180000,0,Ya,2500000,4.7,Lebaran,293,215,Laris
+PRD008,Jaket Hujan,Fashion,2024,3,120000,15,Ya,3500000,4.7,Lebaran,101,91,Biasa
+PRD009,Kaos Polos,Fashion,2024,3,55000,10,Tidak,3100000,4.1,Lebaran,304,191,Biasa
+PRD010,Seragam Sekolah,Fashion,2024,3,135000,0,Tidak,3000000,4.0,Lebaran,73,55,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2024,3,175000,20,Ya,400000,4.5,Lebaran,117,75,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2024,3,35000,0,Tidak,1200000,4.5,Lebaran,201,158,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2024,3,42000,20,Ya,2800000,4.3,Lebaran,275,175,Laris
+PRD014,Kipas Angin,Elektronik,2024,3,280000,0,Tidak,4900000,3.9,Lebaran,95,72,Biasa
+PRD015,Payung,Elektronik,2024,3,45000,5,Tidak,2200000,4.0,Lebaran,114,73,Biasa
+PRD016,Power Bank,Elektronik,2024,3,150000,0,Ya,2500000,4.2,Lebaran,174,113,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2024,3,220000,0,Tidak,0,4.0,Lebaran,73,58,Biasa
+PRD018,Parsel Hampers,Hadiah,2024,3,250000,5,Tidak,300000,4.6,Lebaran,175,135,Laris
+PRD019,Pohon Natal Mini,Hadiah,2024,3,95000,0,Tidak,2700000,4.3,Lebaran,38,29,Biasa
+PRD020,Kado Valentine,Hadiah,2024,3,85000,15,Ya,400000,4.8,Lebaran,56,38,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2024,4,28000,15,Ya,3500000,4.9,Lebaran,703,476,Laris
+PRD002,Kurma Premium 500g,Makanan & Minuman,2024,4,45000,5,Tidak,1100000,4.1,Lebaran,323,286,Laris
+PRD003,Biskuit Kaleng,Makanan & Minuman,2024,4,65000,0,Tidak,1300000,4.5,Lebaran,368,241,Laris
+PRD004,Mi Instan Dus,Makanan & Minuman,2024,4,110000,0,Tidak,3700000,4.7,Lebaran,361,230,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2024,4,12000,0,Tidak,4500000,4.0,Lebaran,346,255,Biasa
+PRD006,Baju Koko,Fashion,2024,4,150000,30,Ya,2200000,3.9,Lebaran,457,289,Laris
+PRD007,Mukena,Fashion,2024,4,180000,10,Tidak,3300000,4.4,Lebaran,311,248,Laris
+PRD008,Jaket Hujan,Fashion,2024,4,120000,0,Tidak,1200000,4.2,Lebaran,61,53,Biasa
+PRD009,Kaos Polos,Fashion,2024,4,55000,30,Ya,4200000,3.9,Lebaran,262,223,Biasa
+PRD010,Seragam Sekolah,Fashion,2024,4,135000,30,Ya,3800000,4.4,Lebaran,158,116,Laris
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2024,4,175000,0,Tidak,4700000,4.2,Lebaran,99,81,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2024,4,35000,5,Tidak,500000,4.6,Lebaran,156,133,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2024,4,42000,20,Ya,1800000,4.5,Lebaran,249,158,Biasa
+PRD014,Kipas Angin,Elektronik,2024,4,280000,0,Tidak,1200000,4.5,Lebaran,95,75,Biasa
+PRD015,Payung,Elektronik,2024,4,45000,0,Ya,4600000,4.4,Lebaran,125,82,Biasa
+PRD016,Power Bank,Elektronik,2024,4,150000,30,Ya,4800000,4.3,Lebaran,158,129,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2024,4,220000,0,Tidak,4100000,4.1,Lebaran,89,75,Biasa
+PRD018,Parsel Hampers,Hadiah,2024,4,250000,15,Ya,4800000,4.5,Lebaran,310,198,Laris
+PRD019,Pohon Natal Mini,Hadiah,2024,4,95000,10,Tidak,4800000,4.5,Lebaran,39,35,Biasa
+PRD020,Kado Valentine,Hadiah,2024,4,85000,30,Ya,2400000,4.6,Lebaran,58,49,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2024,5,28000,5,Tidak,2600000,4.3,Tidak ada,222,155,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2024,5,45000,0,Tidak,3200000,3.7,Tidak ada,115,79,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2024,5,65000,0,Ya,5800000,4.1,Tidak ada,137,113,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2024,5,110000,0,Tidak,3400000,4.3,Tidak ada,256,168,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2024,5,12000,10,Tidak,1500000,4.1,Tidak ada,495,387,Laris
+PRD006,Baju Koko,Fashion,2024,5,150000,0,Tidak,5400000,4.4,Tidak ada,123,87,Biasa
+PRD007,Mukena,Fashion,2024,5,180000,0,Tidak,1500000,4.3,Tidak ada,80,57,Biasa
+PRD008,Jaket Hujan,Fashion,2024,5,120000,15,Ya,500000,4.0,Tidak ada,104,83,Biasa
+PRD009,Kaos Polos,Fashion,2024,5,55000,0,Tidak,4900000,4.2,Tidak ada,216,169,Biasa
+PRD010,Seragam Sekolah,Fashion,2024,5,135000,0,Tidak,2100000,4.4,Tidak ada,80,65,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2024,5,175000,10,Tidak,1100000,4.4,Tidak ada,105,79,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2024,5,35000,20,Ya,2600000,4.1,Tidak ada,249,196,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2024,5,42000,15,Ya,5700000,4.5,Tidak ada,192,149,Biasa
+PRD014,Kipas Angin,Elektronik,2024,5,280000,0,Tidak,300000,4.0,Tidak ada,93,64,Biasa
+PRD015,Payung,Elektronik,2024,5,45000,0,Tidak,2800000,4.3,Tidak ada,127,93,Biasa
+PRD016,Power Bank,Elektronik,2024,5,150000,10,Tidak,2600000,4.1,Tidak ada,101,87,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2024,5,220000,10,Tidak,2800000,4.5,Tidak ada,98,62,Biasa
+PRD018,Parsel Hampers,Hadiah,2024,5,250000,0,Tidak,1500000,3.9,Tidak ada,52,34,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2024,5,95000,10,Tidak,2600000,3.9,Tidak ada,32,28,Biasa
+PRD020,Kado Valentine,Hadiah,2024,5,85000,5,Tidak,1600000,4.3,Tidak ada,43,30,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2024,6,28000,0,Tidak,3300000,4.3,Tidak ada,193,151,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2024,6,45000,0,Ya,3200000,4.4,Tidak ada,185,130,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2024,6,65000,0,Tidak,3800000,4.3,Tidak ada,108,84,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2024,6,110000,15,Ya,1200000,3.8,Tidak ada,224,164,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2024,6,12000,5,Tidak,4900000,4.2,Tidak ada,514,350,Biasa
+PRD006,Baju Koko,Fashion,2024,6,150000,5,Tidak,4100000,4.6,Tidak ada,112,99,Biasa
+PRD007,Mukena,Fashion,2024,6,180000,0,Tidak,0,4.6,Tidak ada,90,69,Biasa
+PRD008,Jaket Hujan,Fashion,2024,6,120000,0,Tidak,400000,4.6,Tidak ada,63,55,Biasa
+PRD009,Kaos Polos,Fashion,2024,6,55000,0,Tidak,2300000,4.4,Tidak ada,304,201,Biasa
+PRD010,Seragam Sekolah,Fashion,2024,6,135000,0,Tidak,2600000,4.1,Tidak ada,169,151,Laris
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2024,6,175000,0,Tidak,2400000,3.7,Tidak ada,155,98,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2024,6,35000,30,Ya,2400000,4.6,Tidak ada,550,479,Laris
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2024,6,42000,0,Tidak,2700000,4.5,Tidak ada,263,170,Biasa
+PRD014,Kipas Angin,Elektronik,2024,6,280000,10,Tidak,3300000,4.1,Tidak ada,103,69,Biasa
+PRD015,Payung,Elektronik,2024,6,45000,5,Tidak,800000,4.4,Tidak ada,111,85,Biasa
+PRD016,Power Bank,Elektronik,2024,6,150000,0,Tidak,2200000,4.6,Tidak ada,95,65,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2024,6,220000,0,Tidak,4700000,5.0,Tidak ada,119,90,Biasa
+PRD018,Parsel Hampers,Hadiah,2024,6,250000,15,Ya,4300000,4.4,Tidak ada,76,59,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2024,6,95000,0,Ya,800000,4.5,Tidak ada,45,29,Biasa
+PRD020,Kado Valentine,Hadiah,2024,6,85000,10,Tidak,4900000,4.5,Tidak ada,69,50,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2024,7,28000,10,Tidak,4400000,4.0,Tahun Ajaran Baru,190,145,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2024,7,45000,0,Tidak,5100000,4.2,Tahun Ajaran Baru,141,111,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2024,7,65000,15,Ya,5300000,4.6,Tahun Ajaran Baru,220,159,Laris
+PRD004,Mi Instan Dus,Makanan & Minuman,2024,7,110000,15,Ya,3800000,4.4,Tahun Ajaran Baru,458,287,Laris
+PRD005,Es Krim Cup,Makanan & Minuman,2024,7,12000,5,Tidak,1900000,4.4,Tahun Ajaran Baru,568,361,Biasa
+PRD006,Baju Koko,Fashion,2024,7,150000,0,Tidak,0,4.7,Tahun Ajaran Baru,107,80,Biasa
+PRD007,Mukena,Fashion,2024,7,180000,15,Ya,4800000,4.2,Tahun Ajaran Baru,107,80,Biasa
+PRD008,Jaket Hujan,Fashion,2024,7,120000,10,Tidak,3100000,3.9,Tahun Ajaran Baru,94,81,Biasa
+PRD009,Kaos Polos,Fashion,2024,7,55000,15,Ya,300000,4.6,Tahun Ajaran Baru,271,191,Biasa
+PRD010,Seragam Sekolah,Fashion,2024,7,135000,0,Tidak,3100000,4.3,Tahun Ajaran Baru,330,272,Laris
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2024,7,175000,15,Ya,800000,4.3,Tahun Ajaran Baru,315,280,Laris
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2024,7,35000,15,Ya,1600000,4.2,Tahun Ajaran Baru,763,536,Laris
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2024,7,42000,15,Ya,3600000,3.8,Tahun Ajaran Baru,524,407,Laris
+PRD014,Kipas Angin,Elektronik,2024,7,280000,10,Tidak,3500000,4.4,Tahun Ajaran Baru,91,58,Biasa
+PRD015,Payung,Elektronik,2024,7,45000,10,Tidak,2300000,4.5,Tahun Ajaran Baru,126,79,Biasa
+PRD016,Power Bank,Elektronik,2024,7,150000,10,Ya,3800000,3.7,Tahun Ajaran Baru,97,82,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2024,7,220000,0,Tidak,3100000,4.4,Tahun Ajaran Baru,123,80,Biasa
+PRD018,Parsel Hampers,Hadiah,2024,7,250000,0,Tidak,2800000,4.2,Tahun Ajaran Baru,54,42,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2024,7,95000,0,Tidak,4800000,4.4,Tahun Ajaran Baru,60,42,Biasa
+PRD020,Kado Valentine,Hadiah,2024,7,85000,0,Tidak,2500000,4.1,Tahun Ajaran Baru,42,32,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2024,8,28000,0,Tidak,4600000,4.9,Tidak ada,204,161,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2024,8,45000,15,Ya,3600000,4.3,Tidak ada,230,163,Laris
+PRD003,Biskuit Kaleng,Makanan & Minuman,2024,8,65000,10,Tidak,1600000,3.8,Tidak ada,138,111,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2024,8,110000,10,Tidak,4100000,4.1,Tidak ada,298,197,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2024,8,12000,20,Ya,2200000,4.3,Tidak ada,728,462,Laris
+PRD006,Baju Koko,Fashion,2024,8,150000,5,Tidak,1600000,3.8,Tidak ada,88,73,Biasa
+PRD007,Mukena,Fashion,2024,8,180000,5,Tidak,3000000,4.1,Tidak ada,94,70,Biasa
+PRD008,Jaket Hujan,Fashion,2024,8,120000,20,Ya,0,4.4,Tidak ada,122,84,Biasa
+PRD009,Kaos Polos,Fashion,2024,8,55000,20,Ya,700000,4.2,Tidak ada,231,209,Biasa
+PRD010,Seragam Sekolah,Fashion,2024,8,135000,5,Tidak,0,4.4,Tidak ada,157,137,Laris
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2024,8,175000,15,Ya,300000,4.7,Tidak ada,174,131,Laris
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2024,8,35000,10,Tidak,1100000,4.4,Tidak ada,376,272,Laris
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2024,8,42000,0,Tidak,2700000,4.3,Tidak ada,243,205,Laris
+PRD014,Kipas Angin,Elektronik,2024,8,280000,10,Tidak,4900000,4.3,Tidak ada,94,74,Biasa
+PRD015,Payung,Elektronik,2024,8,45000,5,Tidak,1000000,4.4,Tidak ada,97,83,Biasa
+PRD016,Power Bank,Elektronik,2024,8,150000,10,Tidak,5600000,4.3,Tidak ada,156,129,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2024,8,220000,15,Ya,2400000,4.4,Tidak ada,114,97,Laris
+PRD018,Parsel Hampers,Hadiah,2024,8,250000,10,Tidak,1000000,4.1,Tidak ada,55,37,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2024,8,95000,15,Ya,2300000,4.5,Tidak ada,65,44,Laris
+PRD020,Kado Valentine,Hadiah,2024,8,85000,10,Tidak,2800000,4.2,Tidak ada,53,34,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2024,9,28000,20,Ya,2800000,4.3,Tidak ada,332,211,Laris
+PRD002,Kurma Premium 500g,Makanan & Minuman,2024,9,45000,0,Tidak,4700000,4.3,Tidak ada,147,130,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2024,9,65000,5,Tidak,6700000,3.8,Tidak ada,152,102,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2024,9,110000,15,Ya,2700000,4.6,Tidak ada,269,244,Laris
+PRD005,Es Krim Cup,Makanan & Minuman,2024,9,12000,5,Tidak,6000000,3.8,Tidak ada,370,294,Biasa
+PRD006,Baju Koko,Fashion,2024,9,150000,15,Ya,5500000,4.4,Tidak ada,198,132,Laris
+PRD007,Mukena,Fashion,2024,9,180000,5,Tidak,2600000,3.7,Tidak ada,82,71,Biasa
+PRD008,Jaket Hujan,Fashion,2024,9,120000,0,Tidak,3000000,4.4,Tidak ada,139,87,Biasa
+PRD009,Kaos Polos,Fashion,2024,9,55000,0,Tidak,900000,4.5,Tidak ada,207,144,Biasa
+PRD010,Seragam Sekolah,Fashion,2024,9,135000,10,Tidak,0,4.5,Tidak ada,93,71,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2024,9,175000,5,Tidak,0,4.4,Tidak ada,59,52,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2024,9,35000,10,Tidak,3700000,4.3,Tidak ada,214,153,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2024,9,42000,15,Ya,2100000,4.2,Tidak ada,234,161,Biasa
+PRD014,Kipas Angin,Elektronik,2024,9,280000,30,Ya,4700000,4.2,Tidak ada,229,172,Laris
+PRD015,Payung,Elektronik,2024,9,45000,0,Tidak,1700000,4.6,Tidak ada,92,80,Biasa
+PRD016,Power Bank,Elektronik,2024,9,150000,0,Tidak,0,4.2,Tidak ada,114,73,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2024,9,220000,5,Ya,3800000,4.4,Tidak ada,82,58,Biasa
+PRD018,Parsel Hampers,Hadiah,2024,9,250000,0,Tidak,1400000,4.4,Tidak ada,59,39,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2024,9,95000,0,Tidak,3100000,4.3,Tidak ada,41,32,Biasa
+PRD020,Kado Valentine,Hadiah,2024,9,85000,0,Ya,600000,4.3,Tidak ada,55,35,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2024,10,28000,5,Tidak,4000000,4.8,Tidak ada,196,167,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2024,10,45000,15,Ya,2300000,3.7,Tidak ada,154,139,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2024,10,65000,0,Tidak,1900000,4.3,Tidak ada,112,86,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2024,10,110000,20,Ya,2000000,4.1,Tidak ada,238,202,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2024,10,12000,10,Tidak,600000,4.1,Tidak ada,342,236,Biasa
+PRD006,Baju Koko,Fashion,2024,10,150000,0,Tidak,900000,4.5,Tidak ada,100,73,Biasa
+PRD007,Mukena,Fashion,2024,10,180000,15,Ya,1000000,3.7,Tidak ada,122,83,Biasa
+PRD008,Jaket Hujan,Fashion,2024,10,120000,5,Ya,3200000,4.5,Tidak ada,127,91,Biasa
+PRD009,Kaos Polos,Fashion,2024,10,55000,0,Tidak,1900000,4.5,Tidak ada,227,162,Biasa
+PRD010,Seragam Sekolah,Fashion,2024,10,135000,20,Ya,3300000,3.9,Tidak ada,111,98,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2024,10,175000,0,Tidak,4900000,4.3,Tidak ada,102,74,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2024,10,35000,0,Tidak,1800000,4.1,Tidak ada,203,144,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2024,10,42000,0,Tidak,3800000,4.0,Tidak ada,134,118,Biasa
+PRD014,Kipas Angin,Elektronik,2024,10,280000,15,Ya,1200000,4.1,Tidak ada,150,131,Laris
+PRD015,Payung,Elektronik,2024,10,45000,10,Tidak,200000,4.2,Tidak ada,132,88,Biasa
+PRD016,Power Bank,Elektronik,2024,10,150000,15,Ya,2200000,4.4,Tidak ada,122,97,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2024,10,220000,0,Tidak,200000,4.0,Tidak ada,70,51,Biasa
+PRD018,Parsel Hampers,Hadiah,2024,10,250000,15,Ya,3200000,3.6,Tidak ada,61,50,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2024,10,95000,30,Ya,3800000,4.3,Tidak ada,54,43,Laris
+PRD020,Kado Valentine,Hadiah,2024,10,85000,30,Ya,4400000,4.3,Tidak ada,64,57,Laris
+PRD001,Sirup Marjan,Makanan & Minuman,2024,11,28000,20,Ya,1700000,4.4,Harbolnas 11.11,235,166,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2024,11,45000,10,Tidak,3200000,4.5,Harbolnas 11.11,160,110,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2024,11,65000,10,Tidak,3600000,4.5,Harbolnas 11.11,155,110,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2024,11,110000,0,Tidak,2500000,4.0,Harbolnas 11.11,232,153,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2024,11,12000,0,Ya,4000000,3.9,Harbolnas 11.11,326,283,Biasa
+PRD006,Baju Koko,Fashion,2024,11,150000,5,Tidak,3000000,4.2,Harbolnas 11.11,104,87,Biasa
+PRD007,Mukena,Fashion,2024,11,180000,0,Tidak,2600000,4.3,Harbolnas 11.11,80,72,Biasa
+PRD008,Jaket Hujan,Fashion,2024,11,120000,5,Tidak,1800000,4.4,Harbolnas 11.11,179,155,Laris
+PRD009,Kaos Polos,Fashion,2024,11,55000,30,Ya,1700000,4.5,Harbolnas 11.11,352,264,Laris
+PRD010,Seragam Sekolah,Fashion,2024,11,135000,10,Ya,900000,4.7,Harbolnas 11.11,114,93,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2024,11,175000,30,Ya,4800000,4.4,Harbolnas 11.11,180,119,Laris
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2024,11,35000,5,Tidak,1800000,3.7,Harbolnas 11.11,150,121,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2024,11,42000,0,Tidak,2300000,4.7,Harbolnas 11.11,176,130,Biasa
+PRD014,Kipas Angin,Elektronik,2024,11,280000,5,Tidak,1900000,4.4,Harbolnas 11.11,72,53,Biasa
+PRD015,Payung,Elektronik,2024,11,45000,0,Tidak,3600000,4.2,Harbolnas 11.11,307,243,Laris
+PRD016,Power Bank,Elektronik,2024,11,150000,5,Tidak,3600000,4.3,Harbolnas 11.11,220,151,Laris
+PRD017,Headphone Bluetooth,Elektronik,2024,11,220000,5,Tidak,800000,4.6,Harbolnas 11.11,225,161,Laris
+PRD018,Parsel Hampers,Hadiah,2024,11,250000,5,Tidak,2400000,4.3,Harbolnas 11.11,68,50,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2024,11,95000,20,Ya,4000000,4.4,Harbolnas 11.11,122,79,Laris
+PRD020,Kado Valentine,Hadiah,2024,11,85000,0,Tidak,1600000,3.9,Harbolnas 11.11,45,30,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2024,12,28000,10,Tidak,0,4.0,Natal & Tahun Baru,143,105,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2024,12,45000,10,Tidak,2700000,4.0,Natal & Tahun Baru,198,132,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2024,12,65000,10,Tidak,3400000,3.6,Natal & Tahun Baru,222,151,Laris
+PRD004,Mi Instan Dus,Makanan & Minuman,2024,12,110000,0,Tidak,5000000,4.3,Natal & Tahun Baru,244,189,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2024,12,12000,10,Tidak,2600000,4.1,Natal & Tahun Baru,273,228,Biasa
+PRD006,Baju Koko,Fashion,2024,12,150000,20,Ya,5100000,4.5,Natal & Tahun Baru,137,117,Laris
+PRD007,Mukena,Fashion,2024,12,180000,10,Tidak,2000000,4.1,Natal & Tahun Baru,87,77,Biasa
+PRD008,Jaket Hujan,Fashion,2024,12,120000,0,Tidak,4000000,5.0,Natal & Tahun Baru,257,186,Laris
+PRD009,Kaos Polos,Fashion,2024,12,55000,0,Ya,4300000,3.8,Natal & Tahun Baru,212,182,Biasa
+PRD010,Seragam Sekolah,Fashion,2024,12,135000,30,Ya,5000000,4.4,Natal & Tahun Baru,132,119,Laris
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2024,12,175000,15,Ya,3000000,4.5,Natal & Tahun Baru,77,69,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2024,12,35000,5,Tidak,2100000,4.1,Natal & Tahun Baru,214,159,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2024,12,42000,5,Tidak,2500000,4.5,Natal & Tahun Baru,140,110,Biasa
+PRD014,Kipas Angin,Elektronik,2024,12,280000,5,Tidak,4500000,4.3,Natal & Tahun Baru,93,66,Biasa
+PRD015,Payung,Elektronik,2024,12,45000,10,Tidak,2800000,4.5,Natal & Tahun Baru,353,233,Laris
+PRD016,Power Bank,Elektronik,2024,12,150000,0,Tidak,3300000,4.4,Natal & Tahun Baru,224,156,Laris
+PRD017,Headphone Bluetooth,Elektronik,2024,12,220000,15,Ya,2100000,4.5,Natal & Tahun Baru,305,246,Laris
+PRD018,Parsel Hampers,Hadiah,2024,12,250000,20,Ya,5500000,4.2,Natal & Tahun Baru,183,120,Laris
+PRD019,Pohon Natal Mini,Hadiah,2024,12,95000,20,Ya,1700000,3.9,Natal & Tahun Baru,268,230,Laris
+PRD020,Kado Valentine,Hadiah,2024,12,85000,5,Ya,3800000,4.1,Natal & Tahun Baru,52,38,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2025,1,28000,0,Ya,3600000,3.9,Tidak ada,221,150,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2025,1,45000,0,Tidak,3900000,4.4,Tidak ada,174,110,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2025,1,65000,15,Ya,2200000,4.2,Tidak ada,174,143,Laris
+PRD004,Mi Instan Dus,Makanan & Minuman,2025,1,110000,10,Tidak,2700000,4.2,Tidak ada,260,190,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2025,1,12000,5,Tidak,5100000,4.6,Tidak ada,394,295,Biasa
+PRD006,Baju Koko,Fashion,2025,1,150000,0,Tidak,0,4.2,Tidak ada,95,78,Biasa
+PRD007,Mukena,Fashion,2025,1,180000,15,Ya,3400000,4.0,Tidak ada,151,99,Laris
+PRD008,Jaket Hujan,Fashion,2025,1,120000,0,Tidak,400000,4.4,Tidak ada,194,141,Laris
+PRD009,Kaos Polos,Fashion,2025,1,55000,0,Tidak,2300000,4.3,Tidak ada,212,158,Biasa
+PRD010,Seragam Sekolah,Fashion,2025,1,135000,0,Ya,3700000,4.1,Tidak ada,109,78,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2025,1,175000,5,Tidak,1000000,4.3,Tidak ada,107,67,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2025,1,35000,20,Ya,1200000,4.8,Tidak ada,393,289,Laris
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2025,1,42000,0,Tidak,3000000,4.3,Tidak ada,174,118,Biasa
+PRD014,Kipas Angin,Elektronik,2025,1,280000,15,Ya,3500000,4.6,Tidak ada,117,85,Biasa
+PRD015,Payung,Elektronik,2025,1,45000,10,Tidak,1900000,4.6,Tidak ada,355,229,Laris
+PRD016,Power Bank,Elektronik,2025,1,150000,15,Ya,2900000,4.3,Tidak ada,132,90,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2025,1,220000,10,Tidak,300000,4.6,Tidak ada,102,73,Biasa
+PRD018,Parsel Hampers,Hadiah,2025,1,250000,0,Tidak,5100000,4.1,Tidak ada,59,50,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2025,1,95000,10,Tidak,3500000,4.2,Tidak ada,37,33,Biasa
+PRD020,Kado Valentine,Hadiah,2025,1,85000,5,Tidak,3600000,4.3,Tidak ada,40,35,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2025,2,28000,20,Ya,4000000,4.4,Valentine,314,210,Laris
+PRD002,Kurma Premium 500g,Makanan & Minuman,2025,2,45000,10,Tidak,3500000,4.3,Valentine,169,140,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2025,2,65000,20,Ya,4000000,4.2,Valentine,219,138,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2025,2,110000,5,Tidak,3200000,4.3,Valentine,338,232,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2025,2,12000,0,Tidak,4100000,4.3,Valentine,373,234,Biasa
+PRD006,Baju Koko,Fashion,2025,2,150000,15,Ya,2100000,4.3,Valentine,176,113,Laris
+PRD007,Mukena,Fashion,2025,2,180000,5,Tidak,1000000,4.5,Valentine,89,73,Biasa
+PRD008,Jaket Hujan,Fashion,2025,2,120000,0,Tidak,4500000,4.1,Valentine,217,175,Laris
+PRD009,Kaos Polos,Fashion,2025,2,55000,0,Tidak,1300000,4.2,Valentine,177,138,Biasa
+PRD010,Seragam Sekolah,Fashion,2025,2,135000,0,Ya,2700000,4.5,Valentine,111,78,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2025,2,175000,15,Ya,3400000,4.0,Valentine,109,90,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2025,2,35000,0,Tidak,3900000,3.8,Valentine,192,169,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2025,2,42000,0,Tidak,700000,4.0,Valentine,102,89,Biasa
+PRD014,Kipas Angin,Elektronik,2025,2,280000,5,Tidak,6000000,3.9,Valentine,90,63,Biasa
+PRD015,Payung,Elektronik,2025,2,45000,0,Tidak,2700000,4.5,Valentine,295,202,Laris
+PRD016,Power Bank,Elektronik,2025,2,150000,0,Ya,3400000,3.7,Valentine,141,96,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2025,2,220000,5,Tidak,3300000,4.5,Valentine,101,87,Biasa
+PRD018,Parsel Hampers,Hadiah,2025,2,250000,20,Ya,4800000,4.3,Valentine,102,70,Laris
+PRD019,Pohon Natal Mini,Hadiah,2025,2,95000,5,Tidak,2400000,4.2,Valentine,49,31,Biasa
+PRD020,Kado Valentine,Hadiah,2025,2,85000,10,Tidak,3100000,4.8,Valentine,293,191,Laris
+PRD001,Sirup Marjan,Makanan & Minuman,2025,3,28000,20,Ya,3900000,4.6,Lebaran,841,692,Laris
+PRD002,Kurma Premium 500g,Makanan & Minuman,2025,3,45000,5,Tidak,2800000,4.3,Lebaran,423,346,Laris
+PRD003,Biskuit Kaleng,Makanan & Minuman,2025,3,65000,20,Ya,3900000,4.2,Lebaran,513,329,Laris
+PRD004,Mi Instan Dus,Makanan & Minuman,2025,3,110000,10,Tidak,2400000,4.8,Lebaran,343,297,Laris
+PRD005,Es Krim Cup,Makanan & Minuman,2025,3,12000,20,Ya,4500000,4.2,Lebaran,488,334,Biasa
+PRD006,Baju Koko,Fashion,2025,3,150000,5,Tidak,4300000,4.3,Lebaran,387,242,Laris
+PRD007,Mukena,Fashion,2025,3,180000,10,Tidak,2000000,4.2,Lebaran,311,222,Laris
+PRD008,Jaket Hujan,Fashion,2025,3,120000,0,Tidak,3200000,4.8,Lebaran,135,86,Biasa
+PRD009,Kaos Polos,Fashion,2025,3,55000,15,Ya,3600000,4.1,Lebaran,307,210,Biasa
+PRD010,Seragam Sekolah,Fashion,2025,3,135000,10,Ya,2600000,4.2,Lebaran,99,67,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2025,3,175000,0,Tidak,4400000,3.8,Lebaran,74,65,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2025,3,35000,20,Ya,3900000,4.8,Lebaran,347,293,Laris
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2025,3,42000,10,Tidak,3300000,4.1,Lebaran,156,128,Biasa
+PRD014,Kipas Angin,Elektronik,2025,3,280000,0,Tidak,1100000,4.9,Lebaran,80,58,Biasa
+PRD015,Payung,Elektronik,2025,3,45000,0,Tidak,4800000,3.9,Lebaran,114,80,Biasa
+PRD016,Power Bank,Elektronik,2025,3,150000,15,Ya,4200000,4.6,Lebaran,230,193,Laris
+PRD017,Headphone Bluetooth,Elektronik,2025,3,220000,15,Ya,1600000,4.6,Lebaran,149,96,Laris
+PRD018,Parsel Hampers,Hadiah,2025,3,250000,0,Tidak,5900000,4.4,Lebaran,278,184,Laris
+PRD019,Pohon Natal Mini,Hadiah,2025,3,95000,0,Tidak,0,4.4,Lebaran,32,28,Biasa
+PRD020,Kado Valentine,Hadiah,2025,3,85000,10,Tidak,1800000,4.2,Lebaran,51,40,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2025,4,28000,15,Ya,2200000,4.3,Tidak ada,289,215,Laris
+PRD002,Kurma Premium 500g,Makanan & Minuman,2025,4,45000,20,Ya,2100000,4.6,Tidak ada,287,189,Laris
+PRD003,Biskuit Kaleng,Makanan & Minuman,2025,4,65000,0,Tidak,2900000,3.9,Tidak ada,122,106,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2025,4,110000,0,Tidak,4000000,4.3,Tidak ada,196,165,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2025,4,12000,0,Tidak,2100000,3.7,Tidak ada,249,223,Biasa
+PRD006,Baju Koko,Fashion,2025,4,150000,5,Tidak,0,4.5,Tidak ada,98,85,Biasa
+PRD007,Mukena,Fashion,2025,4,180000,0,Tidak,4700000,4.6,Tidak ada,104,83,Biasa
+PRD008,Jaket Hujan,Fashion,2025,4,120000,0,Tidak,5400000,4.4,Tidak ada,138,86,Biasa
+PRD009,Kaos Polos,Fashion,2025,4,55000,0,Tidak,1700000,4.6,Tidak ada,258,190,Biasa
+PRD010,Seragam Sekolah,Fashion,2025,4,135000,0,Tidak,2700000,4.4,Tidak ada,92,64,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2025,4,175000,10,Tidak,4500000,4.4,Tidak ada,107,69,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2025,4,35000,5,Tidak,3000000,4.1,Tidak ada,269,186,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2025,4,42000,15,Ya,3200000,4.4,Tidak ada,266,168,Biasa
+PRD014,Kipas Angin,Elektronik,2025,4,280000,0,Tidak,3500000,4.8,Tidak ada,131,83,Biasa
+PRD015,Payung,Elektronik,2025,4,45000,10,Tidak,4300000,3.8,Tidak ada,165,123,Biasa
+PRD016,Power Bank,Elektronik,2025,4,150000,15,Ya,6800000,3.8,Tidak ada,130,110,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2025,4,220000,0,Tidak,3800000,4.5,Tidak ada,94,75,Biasa
+PRD018,Parsel Hampers,Hadiah,2025,4,250000,15,Ya,3100000,3.8,Tidak ada,71,60,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2025,4,95000,10,Tidak,5400000,4.5,Tidak ada,44,36,Biasa
+PRD020,Kado Valentine,Hadiah,2025,4,85000,15,Ya,1000000,4.0,Tidak ada,73,51,Laris
+PRD001,Sirup Marjan,Makanan & Minuman,2025,5,28000,0,Tidak,2000000,4.4,Tidak ada,154,127,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2025,5,45000,10,Tidak,400000,4.0,Tidak ada,102,84,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2025,5,65000,5,Tidak,2300000,4.3,Tidak ada,122,96,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2025,5,110000,0,Tidak,3900000,3.6,Tidak ada,214,184,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2025,5,12000,15,Ya,2800000,4.4,Tidak ada,631,398,Laris
+PRD006,Baju Koko,Fashion,2025,5,150000,0,Tidak,1400000,4.1,Tidak ada,106,88,Biasa
+PRD007,Mukena,Fashion,2025,5,180000,10,Tidak,3900000,4.4,Tidak ada,115,83,Biasa
+PRD008,Jaket Hujan,Fashion,2025,5,120000,15,Ya,3600000,4.7,Tidak ada,131,118,Laris
+PRD009,Kaos Polos,Fashion,2025,5,55000,0,Tidak,2700000,4.6,Tidak ada,195,156,Biasa
+PRD010,Seragam Sekolah,Fashion,2025,5,135000,10,Tidak,3300000,4.6,Tidak ada,108,87,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2025,5,175000,0,Tidak,100000,4.5,Tidak ada,67,48,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2025,5,35000,0,Tidak,2000000,4.7,Tidak ada,224,143,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2025,5,42000,10,Ya,4900000,4.5,Tidak ada,223,201,Laris
+PRD014,Kipas Angin,Elektronik,2025,5,280000,10,Tidak,1800000,4.8,Tidak ada,156,114,Laris
+PRD015,Payung,Elektronik,2025,5,45000,15,Ya,2100000,4.2,Tidak ada,115,72,Biasa
+PRD016,Power Bank,Elektronik,2025,5,150000,0,Ya,500000,4.1,Tidak ada,117,95,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2025,5,220000,10,Tidak,2300000,4.5,Tidak ada,104,74,Biasa
+PRD018,Parsel Hampers,Hadiah,2025,5,250000,0,Tidak,2000000,4.3,Tidak ada,64,40,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2025,5,95000,15,Ya,3800000,4.8,Tidak ada,72,49,Laris
+PRD020,Kado Valentine,Hadiah,2025,5,85000,0,Tidak,1100000,4.1,Tidak ada,38,31,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2025,6,28000,5,Tidak,1900000,4.6,Tidak ada,173,146,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2025,6,45000,0,Tidak,2600000,4.3,Tidak ada,190,120,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2025,6,65000,0,Tidak,1200000,4.5,Tidak ada,134,96,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2025,6,110000,5,Ya,5300000,4.0,Tidak ada,335,225,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2025,6,12000,15,Ya,2100000,4.4,Tidak ada,647,458,Laris
+PRD006,Baju Koko,Fashion,2025,6,150000,30,Ya,3600000,4.4,Tidak ada,180,134,Laris
+PRD007,Mukena,Fashion,2025,6,180000,10,Tidak,4900000,4.4,Tidak ada,84,66,Biasa
+PRD008,Jaket Hujan,Fashion,2025,6,120000,20,Ya,6000000,4.4,Tidak ada,125,107,Biasa
+PRD009,Kaos Polos,Fashion,2025,6,55000,15,Ya,4600000,4.1,Tidak ada,339,228,Biasa
+PRD010,Seragam Sekolah,Fashion,2025,6,135000,10,Tidak,1600000,4.3,Tidak ada,257,206,Laris
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2025,6,175000,15,Ya,3200000,4.5,Tidak ada,242,182,Laris
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2025,6,35000,5,Tidak,2400000,4.7,Tidak ada,445,314,Laris
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2025,6,42000,30,Ya,3800000,4.1,Tidak ada,436,362,Laris
+PRD014,Kipas Angin,Elektronik,2025,6,280000,5,Tidak,3800000,4.0,Tidak ada,96,63,Biasa
+PRD015,Payung,Elektronik,2025,6,45000,0,Tidak,1600000,4.5,Tidak ada,92,78,Biasa
+PRD016,Power Bank,Elektronik,2025,6,150000,30,Ya,1000000,4.2,Tidak ada,143,129,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2025,6,220000,0,Tidak,1700000,4.5,Tidak ada,81,56,Biasa
+PRD018,Parsel Hampers,Hadiah,2025,6,250000,0,Tidak,1900000,4.6,Tidak ada,64,46,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2025,6,95000,0,Tidak,2700000,4.6,Tidak ada,41,26,Biasa
+PRD020,Kado Valentine,Hadiah,2025,6,85000,10,Tidak,1600000,4.1,Tidak ada,47,40,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2025,7,28000,0,Ya,900000,3.9,Tahun Ajaran Baru,214,158,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2025,7,45000,15,Ya,1400000,4.0,Tahun Ajaran Baru,160,140,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2025,7,65000,0,Tidak,4300000,3.5,Tahun Ajaran Baru,163,109,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2025,7,110000,0,Tidak,5300000,4.4,Tahun Ajaran Baru,218,193,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2025,7,12000,0,Tidak,2900000,4.6,Tahun Ajaran Baru,546,425,Laris
+PRD006,Baju Koko,Fashion,2025,7,150000,0,Tidak,1000000,4.6,Tahun Ajaran Baru,102,77,Biasa
+PRD007,Mukena,Fashion,2025,7,180000,0,Ya,2800000,4.6,Tahun Ajaran Baru,107,69,Biasa
+PRD008,Jaket Hujan,Fashion,2025,7,120000,10,Tidak,2300000,4.4,Tahun Ajaran Baru,144,96,Biasa
+PRD009,Kaos Polos,Fashion,2025,7,55000,15,Ya,2800000,4.7,Tahun Ajaran Baru,410,267,Laris
+PRD010,Seragam Sekolah,Fashion,2025,7,135000,5,Tidak,2000000,4.1,Tahun Ajaran Baru,471,298,Laris
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2025,7,175000,30,Ya,4000000,4.2,Tahun Ajaran Baru,484,344,Laris
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2025,7,35000,10,Tidak,2800000,4.4,Tahun Ajaran Baru,638,517,Laris
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2025,7,42000,5,Tidak,3800000,4.2,Tahun Ajaran Baru,506,424,Laris
+PRD014,Kipas Angin,Elektronik,2025,7,280000,20,Ya,200000,4.1,Tahun Ajaran Baru,97,74,Biasa
+PRD015,Payung,Elektronik,2025,7,45000,0,Tidak,4600000,3.9,Tahun Ajaran Baru,96,86,Biasa
+PRD016,Power Bank,Elektronik,2025,7,150000,15,Ya,1400000,4.1,Tahun Ajaran Baru,186,125,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2025,7,220000,5,Tidak,2600000,4.4,Tahun Ajaran Baru,102,76,Biasa
+PRD018,Parsel Hampers,Hadiah,2025,7,250000,15,Ya,5000000,3.9,Tahun Ajaran Baru,74,49,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2025,7,95000,15,Ya,4500000,4.1,Tahun Ajaran Baru,43,34,Biasa
+PRD020,Kado Valentine,Hadiah,2025,7,85000,20,Ya,4700000,4.4,Tahun Ajaran Baru,62,46,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2025,8,28000,20,Ya,3200000,4.7,Tidak ada,203,152,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2025,8,45000,10,Tidak,400000,4.5,Tidak ada,144,129,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2025,8,65000,10,Tidak,4600000,4.3,Tidak ada,156,116,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2025,8,110000,0,Tidak,5200000,4.1,Tidak ada,286,204,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2025,8,12000,10,Tidak,1900000,4.9,Tidak ada,398,342,Biasa
+PRD006,Baju Koko,Fashion,2025,8,150000,5,Tidak,3400000,4.5,Tidak ada,130,104,Biasa
+PRD007,Mukena,Fashion,2025,8,180000,10,Ya,3300000,3.5,Tidak ada,90,79,Biasa
+PRD008,Jaket Hujan,Fashion,2025,8,120000,0,Tidak,1500000,4.6,Tidak ada,110,70,Biasa
+PRD009,Kaos Polos,Fashion,2025,8,55000,20,Ya,3700000,4.5,Tidak ada,359,271,Laris
+PRD010,Seragam Sekolah,Fashion,2025,8,135000,15,Ya,1100000,4.5,Tidak ada,180,155,Laris
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2025,8,175000,15,Ya,1700000,4.7,Tidak ada,219,190,Laris
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2025,8,35000,0,Tidak,3700000,4.6,Tidak ada,386,300,Laris
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2025,8,42000,10,Tidak,5100000,4.2,Tidak ada,386,263,Laris
+PRD014,Kipas Angin,Elektronik,2025,8,280000,20,Ya,5400000,4.3,Tidak ada,139,90,Biasa
+PRD015,Payung,Elektronik,2025,8,45000,0,Tidak,400000,4.0,Tidak ada,119,77,Biasa
+PRD016,Power Bank,Elektronik,2025,8,150000,0,Tidak,2200000,4.2,Tidak ada,97,74,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2025,8,220000,15,Ya,5300000,4.4,Tidak ada,168,124,Laris
+PRD018,Parsel Hampers,Hadiah,2025,8,250000,15,Ya,5300000,3.8,Tidak ada,91,60,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2025,8,95000,5,Tidak,2000000,4.1,Tidak ada,41,29,Biasa
+PRD020,Kado Valentine,Hadiah,2025,8,85000,15,Ya,1200000,4.2,Tidak ada,54,45,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2025,9,28000,20,Ya,2900000,4.0,Tidak ada,269,219,Laris
+PRD002,Kurma Premium 500g,Makanan & Minuman,2025,9,45000,0,Tidak,2500000,4.5,Tidak ada,184,115,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2025,9,65000,10,Tidak,2000000,4.1,Tidak ada,152,98,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2025,9,110000,5,Ya,3600000,4.2,Tidak ada,348,219,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2025,9,12000,0,Tidak,0,4.2,Tidak ada,329,262,Biasa
+PRD006,Baju Koko,Fashion,2025,9,150000,15,Ya,900000,4.6,Tidak ada,141,90,Biasa
+PRD007,Mukena,Fashion,2025,9,180000,0,Ya,2200000,4.7,Tidak ada,94,80,Biasa
+PRD008,Jaket Hujan,Fashion,2025,9,120000,0,Tidak,4200000,4.1,Tidak ada,141,93,Biasa
+PRD009,Kaos Polos,Fashion,2025,9,55000,15,Ya,4500000,4.5,Tidak ada,260,210,Biasa
+PRD010,Seragam Sekolah,Fashion,2025,9,135000,5,Tidak,3300000,4.6,Tidak ada,88,73,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2025,9,175000,10,Tidak,3000000,4.6,Tidak ada,106,90,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2025,9,35000,0,Tidak,3600000,5.0,Tidak ada,227,156,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2025,9,42000,5,Tidak,400000,4.8,Tidak ada,179,136,Biasa
+PRD014,Kipas Angin,Elektronik,2025,9,280000,10,Tidak,2600000,4.4,Tidak ada,174,132,Laris
+PRD015,Payung,Elektronik,2025,9,45000,20,Ya,1300000,3.9,Tidak ada,171,110,Biasa
+PRD016,Power Bank,Elektronik,2025,9,150000,20,Ya,800000,4.8,Tidak ada,187,133,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2025,9,220000,15,Ya,2200000,4.2,Tidak ada,151,105,Laris
+PRD018,Parsel Hampers,Hadiah,2025,9,250000,0,Tidak,2200000,4.4,Tidak ada,52,37,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2025,9,95000,0,Tidak,4900000,4.5,Tidak ada,35,26,Biasa
+PRD020,Kado Valentine,Hadiah,2025,9,85000,15,Ya,3200000,4.1,Tidak ada,70,45,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2025,10,28000,0,Tidak,5100000,4.7,Tidak ada,261,169,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2025,10,45000,0,Tidak,2800000,4.4,Tidak ada,110,94,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2025,10,65000,0,Tidak,3300000,4.7,Tidak ada,128,104,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2025,10,110000,0,Tidak,3200000,3.9,Tidak ada,256,197,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2025,10,12000,0,Tidak,3100000,4.3,Tidak ada,277,224,Biasa
+PRD006,Baju Koko,Fashion,2025,10,150000,0,Tidak,1200000,4.5,Tidak ada,101,86,Biasa
+PRD007,Mukena,Fashion,2025,10,180000,15,Ya,2700000,4.6,Tidak ada,170,116,Laris
+PRD008,Jaket Hujan,Fashion,2025,10,120000,0,Tidak,4700000,4.6,Tidak ada,141,91,Biasa
+PRD009,Kaos Polos,Fashion,2025,10,55000,0,Tidak,1900000,4.1,Tidak ada,211,152,Biasa
+PRD010,Seragam Sekolah,Fashion,2025,10,135000,20,Ya,0,4.5,Tidak ada,139,93,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2025,10,175000,20,Ya,3300000,4.8,Tidak ada,152,102,Laris
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2025,10,35000,5,Tidak,3000000,4.3,Tidak ada,250,197,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2025,10,42000,0,Tidak,3900000,4.3,Tidak ada,175,138,Biasa
+PRD014,Kipas Angin,Elektronik,2025,10,280000,20,Ya,3300000,4.3,Tidak ada,217,172,Laris
+PRD015,Payung,Elektronik,2025,10,45000,10,Tidak,1300000,4.5,Tidak ada,194,121,Biasa
+PRD016,Power Bank,Elektronik,2025,10,150000,5,Tidak,1000000,4.3,Tidak ada,123,81,Biasa
+PRD017,Headphone Bluetooth,Elektronik,2025,10,220000,15,Ya,2800000,4.9,Tidak ada,138,89,Biasa
+PRD018,Parsel Hampers,Hadiah,2025,10,250000,10,Tidak,800000,4.5,Tidak ada,72,54,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2025,10,95000,10,Tidak,1900000,4.3,Tidak ada,54,34,Biasa
+PRD020,Kado Valentine,Hadiah,2025,10,85000,10,Tidak,1200000,4.3,Tidak ada,43,37,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2025,11,28000,0,Tidak,1100000,4.4,Harbolnas 11.11,171,135,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2025,11,45000,0,Tidak,600000,4.5,Harbolnas 11.11,148,113,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2025,11,65000,0,Tidak,3200000,4.0,Harbolnas 11.11,112,100,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2025,11,110000,10,Tidak,5300000,4.0,Harbolnas 11.11,299,265,Laris
+PRD005,Es Krim Cup,Makanan & Minuman,2025,11,12000,10,Tidak,3400000,4.6,Harbolnas 11.11,456,318,Biasa
+PRD006,Baju Koko,Fashion,2025,11,150000,20,Ya,2400000,4.2,Harbolnas 11.11,166,143,Laris
+PRD007,Mukena,Fashion,2025,11,180000,5,Tidak,5700000,4.6,Harbolnas 11.11,123,83,Biasa
+PRD008,Jaket Hujan,Fashion,2025,11,120000,0,Tidak,4500000,3.8,Harbolnas 11.11,228,148,Laris
+PRD009,Kaos Polos,Fashion,2025,11,55000,20,Ya,3100000,4.8,Harbolnas 11.11,260,232,Biasa
+PRD010,Seragam Sekolah,Fashion,2025,11,135000,0,Tidak,4900000,4.2,Harbolnas 11.11,103,89,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2025,11,175000,0,Tidak,3200000,4.7,Harbolnas 11.11,105,71,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2025,11,35000,15,Ya,3300000,4.4,Harbolnas 11.11,271,196,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2025,11,42000,10,Tidak,1000000,4.3,Harbolnas 11.11,170,112,Biasa
+PRD014,Kipas Angin,Elektronik,2025,11,280000,10,Tidak,3100000,4.1,Harbolnas 11.11,103,71,Biasa
+PRD015,Payung,Elektronik,2025,11,45000,15,Ya,1200000,4.3,Harbolnas 11.11,319,221,Laris
+PRD016,Power Bank,Elektronik,2025,11,150000,0,Tidak,2600000,4.0,Harbolnas 11.11,231,158,Laris
+PRD017,Headphone Bluetooth,Elektronik,2025,11,220000,10,Tidak,1100000,4.3,Harbolnas 11.11,227,183,Laris
+PRD018,Parsel Hampers,Hadiah,2025,11,250000,10,Tidak,3200000,3.9,Harbolnas 11.11,56,43,Biasa
+PRD019,Pohon Natal Mini,Hadiah,2025,11,95000,10,Tidak,4300000,4.7,Harbolnas 11.11,80,59,Laris
+PRD020,Kado Valentine,Hadiah,2025,11,85000,5,Tidak,3200000,4.1,Harbolnas 11.11,59,38,Biasa
+PRD001,Sirup Marjan,Makanan & Minuman,2025,12,28000,0,Tidak,1300000,4.3,Natal & Tahun Baru,173,116,Biasa
+PRD002,Kurma Premium 500g,Makanan & Minuman,2025,12,45000,0,Tidak,1100000,4.0,Natal & Tahun Baru,151,102,Biasa
+PRD003,Biskuit Kaleng,Makanan & Minuman,2025,12,65000,0,Ya,2200000,4.1,Natal & Tahun Baru,168,132,Biasa
+PRD004,Mi Instan Dus,Makanan & Minuman,2025,12,110000,0,Tidak,800000,4.1,Natal & Tahun Baru,237,173,Biasa
+PRD005,Es Krim Cup,Makanan & Minuman,2025,12,12000,15,Ya,2200000,4.8,Natal & Tahun Baru,442,334,Biasa
+PRD006,Baju Koko,Fashion,2025,12,150000,5,Tidak,3600000,4.3,Natal & Tahun Baru,143,101,Biasa
+PRD007,Mukena,Fashion,2025,12,180000,5,Tidak,1700000,4.2,Natal & Tahun Baru,101,66,Biasa
+PRD008,Jaket Hujan,Fashion,2025,12,120000,0,Tidak,4700000,4.0,Natal & Tahun Baru,286,205,Laris
+PRD009,Kaos Polos,Fashion,2025,12,55000,15,Ya,3800000,4.0,Natal & Tahun Baru,504,316,Laris
+PRD010,Seragam Sekolah,Fashion,2025,12,135000,10,Tidak,6200000,4.4,Natal & Tahun Baru,149,106,Biasa
+PRD011,Tas Sekolah,Perlengkapan Sekolah,2025,12,175000,10,Tidak,2500000,4.3,Natal & Tahun Baru,127,84,Biasa
+PRD012,Buku Tulis (10 pcs),Perlengkapan Sekolah,2025,12,35000,0,Tidak,1300000,4.5,Natal & Tahun Baru,151,136,Biasa
+PRD013,Alat Tulis Set,Perlengkapan Sekolah,2025,12,42000,5,Tidak,1000000,4.0,Natal & Tahun Baru,119,92,Biasa
+PRD014,Kipas Angin,Elektronik,2025,12,280000,30,Ya,3000000,4.5,Natal & Tahun Baru,154,104,Laris
+PRD015,Payung,Elektronik,2025,12,45000,10,Tidak,1300000,4.3,Natal & Tahun Baru,377,249,Laris
+PRD016,Power Bank,Elektronik,2025,12,150000,0,Tidak,5100000,4.5,Natal & Tahun Baru,242,196,Laris
+PRD017,Headphone Bluetooth,Elektronik,2025,12,220000,15,Ya,400000,4.5,Natal & Tahun Baru,194,173,Laris
+PRD018,Parsel Hampers,Hadiah,2025,12,250000,0,Tidak,3400000,4.3,Natal & Tahun Baru,185,128,Laris
+PRD019,Pohon Natal Mini,Hadiah,2025,12,95000,15,Ya,3600000,4.0,Natal & Tahun Baru,328,241,Laris
+PRD020,Kado Valentine,Hadiah,2025,12,85000,0,Tidak,2000000,4.3,Natal & Tahun Baru,31,25,Biasa
 
