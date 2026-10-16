@@ -1,4 +1,4 @@
-# UKK Machine Learning
+# Skill Passport Machine Learning
 
 Proyek ini membandingkan beberapa algoritma klasifikasi untuk memprediksi status penjualan produk dan menyediakan aplikasi Streamlit untuk rekomendasi produk berdasarkan bulan penjualan.
 
