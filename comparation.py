@@ -101,9 +101,9 @@ for nama, model in algorithms.items():
 
     start = time.time()
 
-    model.fit(X_train, y_train)
+    model.fit()
 
-    prediksi = model.predict(X_test)
+    prediksi = model.predict()
 
     end = time.time()
 
