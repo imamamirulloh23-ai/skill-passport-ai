@@ -103,7 +103,7 @@ for nama, model in algorithms.items():
 
     model.fit()
 
-    prediksi = model.predict()
+    prediksi = model.predict(X_test)
 
     end = time.time()
 
