@@ -7,11 +7,7 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.pipeline import make_pipeline
 from sklearn.metrics import accuracy_score
 
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.naive_bayes import GaussianNB
-from sklearn.svm import SVC
+
 
 # ==========================================
 # Membaca Dataset
@@ -72,22 +68,6 @@ X_train, X_test, y_train, y_test = train_test_split(
 # ==========================================
 
 algorithms = {
-
-    "Decision Tree":
-        DecisionTreeClassifier(random_state=42),
-
-    "Random Forest":
-        RandomForestClassifier(random_state=42),
-
-    "KNN":
-        make_pipeline(StandardScaler(), KNeighborsClassifier()),
-
-    "Naive Bayes":
-        GaussianNB(),
-
-    "SVM":
-        make_pipeline(StandardScaler(), SVC())
-
 }
 
 hasil = []
