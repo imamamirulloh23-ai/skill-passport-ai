@@ -47,8 +47,15 @@ Siapkan proyek klasifikasi untuk membandingkan beberapa algoritma machine learni
    - 30% data testing
 
    Pastikan pembagian dilakukan secara konsisten dan data testing tidak digunakan untuk melatih model.
-
-6. **Bandingkan algoritma** dengan menjalankan:
+   
+7. **Bandingkan algoritma** dari kelima algoritma ini:
+   - Decision Tree
+   - Random Forest
+   - K-Nearest Neighbors
+   - Naive Bayes Classifier
+   - Support Vector Machine
+     
+   kemudian menjalankan:
 
    ```powershell
    python comparation.py
@@ -56,9 +63,9 @@ Siapkan proyek klasifikasi untuk membandingkan beberapa algoritma machine learni
 
    Catat akurasi setiap algoritma. Tentukan algoritma terbaik berdasarkan akurasi pada data testing, lalu catat juga hasil dan alasan pemilihannya.
 
-7. **Gunakan algoritma terbaik** dari hasil perbandingan sebagai model pada `app.py`. Pastikan fitur dan proses encoding yang diperlukan untuk training dan prediksi konsisten.
+9. **Gunakan algoritma terbaik** dari hasil perbandingan sebagai model pada `app.py`. Pastikan fitur dan proses encoding yang diperlukan untuk training dan prediksi konsisten.
 
-8. **Jalankan aplikasi**:
+10. **Jalankan aplikasi**:
 
    ```powershell
    streamlit run app.py
