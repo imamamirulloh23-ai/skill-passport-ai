@@ -53,13 +53,7 @@ y = df["status_penjualan"]
 # Membagi Data
 # ==========================================
 
-X_train, X_test, y_train, y_test = train_test_split(
-    X,
-    y,
-    test_size=0.10,
-    random_state=42,
-    stratify=y      # menjaga proporsi Laris/Biasa tetap sama
-)
+X_train, X_test, y_train, y_test = train_test_split()
 
 # ==========================================
 # Daftar Algoritma
